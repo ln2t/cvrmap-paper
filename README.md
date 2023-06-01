@@ -9,7 +9,18 @@ CVRmap is an opensource BIDS app to compute maps or Cerebro-Vascular Reactivity 
 ## Instructions for use
 
 To use the scripts in this repository, you must first download the data processed using CVRmap. This can be done here: `openneuro.org/dsXXXX`.
-The location of the downloaded data must be used in the jupyter notebook. Moreover, make sure you have all python dependencies using e.g. `pip install -r requirements.txt`
+The location of the downloaded data must be used in the jupyter notebook. Moreover, make sure you have all python dependencies installed. This notebook uses the following packages:
+
+```
+pandas
+numpy
+scipy
+matplotlib
+plotly
+pybids
+nibabel
+nilearn
+```
 
 ## Bugs or questions
 

@@ -1,6 +1,6 @@
 # cvrmap-paper
 
-Jupyter notebook to generate the figures from the cvrmap paper
+Jupyter notebook to generate the figures from the cvrmap paper (to be published).
 
 ## Introduction
 
@@ -8,7 +8,8 @@ CVRmap is an opensource BIDS app to compute maps of Cerebro-Vascular Reactivity 
 
 ## Instructions for use
 
-To use the notebook, you must first download the data processed using CVRmap. This can be done here: `openneuro.org/dsXXXX`.
+To use the notebook, you must first download the data processed using CVRmap. This can be done here: `openneuro.org/ds004604`.
+Make sure you have downloaded the `cvrmap` derivatives for all subjects (50) from the dataset.
 The location of the downloaded data must be used in the jupyter notebook. Moreover, make sure you have all python dependencies installed. This notebook uses the following packages:
 
 ```

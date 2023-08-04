@@ -8,7 +8,7 @@ Jupyter notebook to generate the figures from the cvrmap paper. Also showcase ve
 
 ## Instructions for use
 
-To use the notebook, you must first download the data processed using `cvrmap`. This can be done here: `openneuro.org/ds004604` (select version v1.0.0).
+To use the notebook, you must first download the data processed using `cvrmap`. This can be done here: `openneuro.org/ds004604` (select version v1.0.0). Make sure you have downloaded the `cvrmap` derivatives for all subjects (50) from the dataset.
 The location of the downloaded data must be used in the jupyter notebook. Moreover, make sure you have all python dependencies installed. This notebook uses the following packages:
 
 ```
